@@ -1,4 +1,3 @@
-import { RoutesComponent } from './routes/index.routes'
 import { GlobalStyle } from './global/styles/globals'
 
 import { HomePage } from './pages/Home'
