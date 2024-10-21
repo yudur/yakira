@@ -7,7 +7,7 @@ import { LanguageDropDown } from './LanguageDropDown'
 
 
 import yakiraNameIcon from '../../global/assets/icons/yakira-name.svg'
-import yakiraCycleIcon from '../../global/assets/icons/Yakira-cycle.svg'
+import yakiraCycleIcon from '../../global/assets/icons/yakira-cycle.svg'
 
 export function Header() {
 	const { t } = useTranslation()

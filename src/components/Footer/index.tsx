@@ -5,7 +5,7 @@ import { FooterContainer } from './styles'
 import whatsappIcon from '../../global/assets/icons/whatsapp.svg'
 import instagramIcon from '../../global/assets/icons/instagram.svg'
 import yakiraNameIcon from '../../global/assets/icons/yakira-name.svg'
-import yakiraCycleIcon from '../../global/assets/icons/Yakira-cycle.svg'
+import yakiraCycleIcon from '../../global/assets/icons/yakira-cycle.svg'
 
 export function Footer() {
 	const { t } = useTranslation()
