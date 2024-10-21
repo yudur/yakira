@@ -5,6 +5,7 @@ import { HeaderContainer, HeaderContent, MenuButton, NavLinks, NavigateBar, Side
 
 import { LanguageDropDown } from './LanguageDropDown'
 
+
 import yakiraNameIcon from '../../global/assets/icons/yakira-name.svg'
 import yakiraCycleIcon from '../../global/assets/icons/Yakira-cycle.svg'
 
