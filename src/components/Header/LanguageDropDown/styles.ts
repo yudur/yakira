@@ -22,7 +22,7 @@ export const DropdownButton = styled.button`
   gap: 1rem;
 
   img {
-    width: 30%;
+    width: 1.875rem;
     height: auto;
   }
 `
