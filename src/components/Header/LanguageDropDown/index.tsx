@@ -52,13 +52,13 @@ export function LanguageDropDown() {
 		<DropdownContainer>
 			<DropdownButton onClick={handleOpenDropdown}>
 				<img src={currentLanguage.flag} alt="flag" />
-				{currentLanguage.lang}
 			</DropdownButton>
 
 			<DropdownContent show={showDropdown}>
 				{langs.map((lang) => (
 					<DropdownItem key={lang.fullName} onClick={() => handleSelectLanguage(lang)}>
 						<img src={lang.flag} alt="flag" />
+						{lang.fullName}
 					</DropdownItem>
 				))}
 			</DropdownContent>
